@@ -100,9 +100,3 @@ Please note that this is the first version, and we are working daily to improve 
 ### Disclaimer
 
 **GitRaptor is a security tool intended for ethical use only.** Unauthorized use against systems without explicit permission is a violation of laws and ethical guidelines.
-
-### Sponsors
-
-[Wezoom](https://wezoom.ca) has sponsored this project by supporting GitRaptor's development and growth.
-
-<img width="400" src="assets/wezoom_logo.png" alt="Wezoom logo.">
